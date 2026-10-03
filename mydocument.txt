@@ -1,0 +1,1 @@
+Lojotech is a technology company based in Finland. The company works on AI and cloud-based testing solutions. Employees use tools like Jira, GitLab, and AWS for their daily work.
